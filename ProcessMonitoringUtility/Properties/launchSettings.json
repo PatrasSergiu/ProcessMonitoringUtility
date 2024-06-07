@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProcessMonitoringUtility": {
+      "commandName": "Project",
+      "commandLineArgs": "csrss 1 1"
+    }
+  }
+}
