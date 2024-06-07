@@ -2,7 +2,7 @@
 
 ## A simple tool for monitoring and automatically terminating Windows processes exceeding specified maximum runtime.
 
-The Process Monitoring Utility manages and monitors Windows processes based on user-defined criteria. It is designed to automatically terminate processes that exceed a specified maximum runtime, ensuring system stability and performance. This utility is particularly useful in environments where processes may hang or consume excessive resources without supervision.
+The Process Monitoring Utility manages and monitors Windows processes. It is designed to automatically terminate processes that exceed a specified maximum runtime, checking the run time of the specified project on a given frequency. It also features End-To-End testing with NUnit, and useful information about the activity of the utility is given to the user, and also logged with Serilog for future reference.
 
 ### How to Run the Utility
 To use the Process Monitoring Utility, follow these steps:
